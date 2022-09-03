@@ -46,13 +46,12 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
-          plugin_notable: yes
-          plugin_notable_from: organization
-          plugin_notable_types: commit
           plugin_people: yes
           plugin_people_limit: 24
           plugin_people_size: 28
           plugin_people_types: followers, following
+          plugin_repositories: yes
+          plugin_repositories_order: featured, pinned, starred, random
           plugin_topics: yes
           plugin_topics_limit: 15
           plugin_topics_mode: icons
