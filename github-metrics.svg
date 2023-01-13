@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1387" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1389" class="">
     <defs>
         <style/>
     </defs>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1574 Commits
+                            1575 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -214,19 +214,19 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 2.52mb of code in 1988 edited files across 1502 commits</small>
+                <small>estimation from 2.52mb of code in 1989 edited files across 1503 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="264.6882432495453" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="264.6882432495453" y="0" width="111.61999809017483" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="376.30824133972015" y="0" width="47.989131762391104" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="424.29737310211124" y="0" width="15.457858375360589" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="439.75523147747185" y="0" width="14.15233742613307" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="453.9075689036049" y="0" width="4.471256020945897" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="458.37882492455077" y="0" width="1.6211750754491976" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="264.87608613901915" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="264.87608613901915" y="0" width="111.51264652407782" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="376.38873266309696" y="0" width="47.94297777082619" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="424.3317104339232" y="0" width="15.442991637020741" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="439.77470207094393" y="0" width="14.13872628464746" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="453.9134283555914" y="0" width="4.466955749090655" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="458.38038410468204" y="0" width="1.6196158953179962" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -238,9 +238,9 @@
                                 C++
                             </div>
                             <small>
-                                <div>26.1k lines</div>
-                                <div>518 kB</div>
-                                <div>57.54%</div>
+                                <div>26.2k lines</div>
+                                <div>519 kB</div>
+                                <div>57.58%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -253,7 +253,7 @@
                             <small>
                                 <div>6.15k lines</div>
                                 <div>218 kB</div>
-                                <div>24.27%</div>
+                                <div>24.24%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -266,7 +266,7 @@
                             <small>
                                 <div>2.85k lines</div>
                                 <div>93.9 kB</div>
-                                <div>10.43%</div>
+                                <div>10.42%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -292,7 +292,7 @@
                             <small>
                                 <div>1.69k lines</div>
                                 <div>27.7 kB</div>
-                                <div>3.08%</div>
+                                <div>3.07%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1904,7 +1904,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.32m out of 368m repositories</span>
+                                    <span class="gh">ranked 4.29m out of 368m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -2051,14 +2051,14 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
+                            <b style="color: #16F174">Your fortune: （　´_ゝ`）ﾌｰﾝ </b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Jan 2023, 15:16:30 (timezone Asia/Tokyo) with lowlighter/metrics@3.31.0</span>
+                <span>Last updated 13 Jan 2023, 16:12:12 (timezone Asia/Tokyo) with lowlighter/metrics@3.31.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
